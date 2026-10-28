@@ -1,0 +1,67 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="trilha de pegadas de gato">
+  <g fill="#8a8a8a">
+    <!-- pata 1 -->
+    <g transform="translate(120,44) rotate(-8)" opacity="0.15">
+      <ellipse cx="0" cy="6" rx="11" ry="9"/>
+      <ellipse cx="-11" cy="-8" rx="4.5" ry="6"/>
+      <ellipse cx="-3.5" cy="-12" rx="4.5" ry="6"/>
+      <ellipse cx="4.5" cy="-11" rx="4.5" ry="6"/>
+      <ellipse cx="12" cy="-6" rx="4" ry="5.5"/>
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4s" begin="0s" repeatCount="indefinite"/>
+    </g>
+    <!-- pata 2 -->
+    <g transform="translate(280,36) rotate(8)" opacity="0.15">
+      <ellipse cx="0" cy="6" rx="11" ry="9"/>
+      <ellipse cx="-11" cy="-8" rx="4.5" ry="6"/>
+      <ellipse cx="-3.5" cy="-12" rx="4.5" ry="6"/>
+      <ellipse cx="4.5" cy="-11" rx="4.5" ry="6"/>
+      <ellipse cx="12" cy="-6" rx="4" ry="5.5"/>
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4s" begin="0.5s" repeatCount="indefinite"/>
+    </g>
+    <!-- pata 3 -->
+    <g transform="translate(440,44) rotate(-8)" opacity="0.15">
+      <ellipse cx="0" cy="6" rx="11" ry="9"/>
+      <ellipse cx="-11" cy="-8" rx="4.5" ry="6"/>
+      <ellipse cx="-3.5" cy="-12" rx="4.5" ry="6"/>
+      <ellipse cx="4.5" cy="-11" rx="4.5" ry="6"/>
+      <ellipse cx="12" cy="-6" rx="4" ry="5.5"/>
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </g>
+    <!-- pata 4 -->
+    <g transform="translate(600,36) rotate(8)" opacity="0.15">
+      <ellipse cx="0" cy="6" rx="11" ry="9"/>
+      <ellipse cx="-11" cy="-8" rx="4.5" ry="6"/>
+      <ellipse cx="-3.5" cy="-12" rx="4.5" ry="6"/>
+      <ellipse cx="4.5" cy="-11" rx="4.5" ry="6"/>
+      <ellipse cx="12" cy="-6" rx="4" ry="5.5"/>
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+    </g>
+    <!-- pata 5 -->
+    <g transform="translate(760,44) rotate(-8)" opacity="0.15">
+      <ellipse cx="0" cy="6" rx="11" ry="9"/>
+      <ellipse cx="-11" cy="-8" rx="4.5" ry="6"/>
+      <ellipse cx="-3.5" cy="-12" rx="4.5" ry="6"/>
+      <ellipse cx="4.5" cy="-11" rx="4.5" ry="6"/>
+      <ellipse cx="12" cy="-6" rx="4" ry="5.5"/>
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4s" begin="2s" repeatCount="indefinite"/>
+    </g>
+    <!-- pata 6 -->
+    <g transform="translate(920,36) rotate(8)" opacity="0.15">
+      <ellipse cx="0" cy="6" rx="11" ry="9"/>
+      <ellipse cx="-11" cy="-8" rx="4.5" ry="6"/>
+      <ellipse cx="-3.5" cy="-12" rx="4.5" ry="6"/>
+      <ellipse cx="4.5" cy="-11" rx="4.5" ry="6"/>
+      <ellipse cx="12" cy="-6" rx="4" ry="5.5"/>
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4s" begin="2.5s" repeatCount="indefinite"/>
+    </g>
+    <!-- pata 7 -->
+    <g transform="translate(1080,44) rotate(-8)" opacity="0.15">
+      <ellipse cx="0" cy="6" rx="11" ry="9"/>
+      <ellipse cx="-11" cy="-8" rx="4.5" ry="6"/>
+      <ellipse cx="-3.5" cy="-12" rx="4.5" ry="6"/>
+      <ellipse cx="4.5" cy="-11" rx="4.5" ry="6"/>
+      <ellipse cx="12" cy="-6" rx="4" ry="5.5"/>
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4s" begin="3s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

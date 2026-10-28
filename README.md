@@ -51,10 +51,8 @@ anticatástrofe rodando na sua máquina. de dia eu escrevo código; de madrugada
   <a href="https://github.com/micsxnn/thesoft"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=micsxnn&repo=thesoft&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" alt="thesoft"/></a>
 </div>
 
-## 🏆 troféus
-
 <div align="center">
-  <img width="92%" src="https://github-profile-trophy.vercel.app/?username=micsxnn&no-frame=true&column=4&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&bg_color=0d0d0d&border_color=2a2a2a" alt="troféus do GitHub"/>
+  <img width="58%" src="./assets/patinhas.svg" alt="trilha de pegadas de gato caminhando"/>
 </div>
 
 ## 🐍 a cobrinha come meus commits
