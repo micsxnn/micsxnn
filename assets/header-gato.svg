@@ -1,0 +1,112 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="micaelsan — desenvolvedor autônomo, com um gato preto sentado numa lua branca">
+  <defs>
+    <radialGradient id="brilhoLua" cx="77%" cy="52%" r="38%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linhaBranca" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grade" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+    </pattern>
+    <filter id="sombraTitulo" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="1200" height="420" fill="#0a0a0a"/>
+  <rect width="1200" height="420" fill="url(#grade)"/>
+  <rect width="1200" height="420" fill="url(#brilhoLua)"/>
+
+  <!-- estrelas -->
+  <g fill="#ffffff">
+    <circle cx="120" cy="58" r="1.3" opacity="0.35"/>
+    <circle cx="252" cy="36" r="1" opacity="0.22"/>
+    <circle cx="392" cy="70" r="1.4" opacity="0.30">
+      <animate attributeName="opacity" values="0.30;0.65;0.30" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="44" r="1" opacity="0.24"/>
+    <circle cx="648" cy="96" r="1.2" opacity="0.28">
+      <animate attributeName="opacity" values="0.28;0.6;0.28" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="742" cy="40" r="1" opacity="0.20"/>
+    <circle cx="1090" cy="70" r="1.3" opacity="0.30"/>
+    <circle cx="1150" cy="130" r="1" opacity="0.22"/>
+    <circle cx="60" cy="330" r="1" opacity="0.18"/>
+    <circle cx="560" cy="352" r="1.2" opacity="0.22"/>
+    <circle cx="1078" cy="360" r="1" opacity="0.20"/>
+  </g>
+
+  <!-- texto -->
+  <text x="70" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="1" fill="#ffffff" filter="url(#sombraTitulo)">micaelsan</text>
+  <rect x="74" y="196" width="320" height="3" rx="1.5" fill="url(#linhaBranca)"/>
+  <text x="72" y="242" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="600" fill="#d9d9d9">desenvolvedor aut&#244;nomo &#8212; a IA opera o meu PC pelo chat</text>
+  <text x="72" y="272" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8f8f8f">Tauri &#183; Next.js &#183; Node.js &#183; Python &#183; SQLite</text>
+  <text x="72" y="386" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#6a6a6a">commits de madrugada &#183; supervis&#227;o felina 24/7</text>
+
+  <!-- lua branca: podium do gato -->
+  <circle cx="918" cy="225" r="150" fill="#ffffff" opacity="0.04"/>
+  <circle cx="918" cy="225" r="128" fill="#ffffff" opacity="0.07"/>
+  <circle cx="918" cy="225" r="104" fill="#ffffff"/>
+  <circle cx="880" cy="196" r="10" fill="#000000" opacity="0.05"/>
+  <circle cx="972" cy="270" r="14" fill="#000000" opacity="0.05"/>
+  <circle cx="850" cy="272" r="7" fill="#000000" opacity="0.04"/>
+
+  <!-- ===== o gato ===== -->
+  <g>
+    <!-- rabo balançando -->
+    <path d="M958,250 Q1028,246 1038,202 Q1044,168 1012,164" fill="none" stroke="#000000" stroke-width="15" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" values="0 958 250; 7 958 250; 0 958 250; -4 958 250; 0 958 250" dur="7s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- corpo e patas -->
+    <ellipse cx="918" cy="250" rx="50" ry="40" fill="#000000"/>
+    <ellipse cx="902" cy="288" rx="12" ry="8.5" fill="#000000"/>
+    <ellipse cx="934" cy="288" rx="12" ry="8.5" fill="#000000"/>
+    <circle cx="918" cy="205" r="26" fill="#000000"/>
+
+    <!-- orelhas -->
+    <path d="M872,118 L852,50 L908,94 Z" fill="#000000" stroke="#000000" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M964,118 L984,50 L928,94 Z" fill="#000000" stroke="#000000" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M877,104 L865,64 L900,90 Z" fill="#ffffff" opacity="0.92"/>
+    <path d="M959,104 L971,64 L936,90 Z" fill="#ffffff" opacity="0.92"/>
+
+    <!-- cabeça -->
+    <circle cx="918" cy="155" r="60" fill="#000000"/>
+
+    <!-- olhos (piscam) -->
+    <g transform="translate(896,160)">
+      <g>
+        <ellipse cx="0" cy="0" rx="14" ry="17" fill="#ffffff"/>
+        <ellipse cx="0" cy="2" rx="6.5" ry="12" fill="#000000"/>
+        <circle cx="-4" cy="-5" r="3" fill="#ffffff"/>
+        <animateTransform attributeName="transform" type="scale" values="1;1;0.08;1;1" keyTimes="0;0.9;0.93;0.96;1" dur="4.6s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(940,160)">
+      <g>
+        <ellipse cx="0" cy="0" rx="14" ry="17" fill="#ffffff"/>
+        <ellipse cx="0" cy="2" rx="6.5" ry="12" fill="#000000"/>
+        <circle cx="-4" cy="-5" r="3" fill="#ffffff"/>
+        <animateTransform attributeName="transform" type="scale" values="1;1;0.08;1;1" keyTimes="0;0.9;0.93;0.96;1" dur="4.6s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- nariz e boca -->
+    <path d="M913,178 L923,178 L918,184 Z" fill="#ffffff"/>
+    <path d="M918,184 C918,190 912,192 908,189 M918,184 C918,190 924,192 928,189" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- bigodes -->
+    <g stroke="#ffffff" stroke-width="1.6" opacity="0.75" stroke-linecap="round">
+      <path d="M864,170 L830,164"/>
+      <path d="M864,178 L828,178"/>
+      <path d="M864,186 L832,192"/>
+      <path d="M972,170 L1006,164"/>
+      <path d="M972,178 L1010,178"/>
+      <path d="M972,186 L1004,192"/>
+    </g>
+  </g>
+</svg>
