@@ -53,7 +53,9 @@ anticatástrofe. Foco em software local, leve e verificável.
 ## atividade de commits
 
 <div align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=micsxnn&bg_color=0d0d0d&color=c9c9c9&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Hist%C3%B3rico%20de%20contribui%C3%A7%C3%B5es" alt="histórico de contribuições"/>
+  <a href="https://github.com/micsxnn?tab=overview&from=2026-01-01">
+    <img width="94%" src="https://ghchart.rshah.org/ffffff/micsxnn" alt="calendário de contribuições do último ano"/>
+  </a>
 </div>
 
 <div align="center">
