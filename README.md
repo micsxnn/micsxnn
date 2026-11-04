@@ -6,18 +6,19 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1100&color=FFFFFF&center=true&vCenter=true&width=680&height=56&lines=PC+operado+pelo+chat%2C+de+qualquer+lugar;Tauri+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;zero+depend%C3%AAncias+%C2%B7+zero+portas+abertas" alt="especialidades"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1100&color=FFFFFF&center=true&vCenter=true&width=680&height=56&lines=software+local%2C+r%C3%A1pido+e+sem+enfeite;Tauri+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;zero+depend%C3%AAncias+%C2%B7+zero+portas+abertas" alt="especialidades"/>
 
 </div>
 
 ## sobre
 
 Desenvolvedor autônomo. Construo ferramentas que resolvem problemas reais — de um
-baixador de música a uma ponte de operação remota de PC via chat: agente de um
-arquivo só, zero dependências, fila offline, lixeira com desfazer e trava
-anticatástrofe. Foco em software local, leve e verificável.
+baixador de música a um sistema de acesso remoto a PC feito do zero: um arquivo só,
+zero dependências, fila offline, lixeira com desfazer e trava anticatástrofe. Gosto
+de encurtar o caminho entre ideia e coisa funcionando; foco em software local, leve
+e verificável.
 
-- **em destaque**: [`ponte-local`](https://github.com/micsxnn/ponte-local) — operação remota de PC pelo chat, de qualquer lugar, sem porta aberta, sem VPN
+- **em destaque**: [`ponte-local`](https://github.com/micsxnn/ponte-local) — acesso remoto ao PC de qualquer lugar, sem porta aberta, sem VPN
 - **publicação**: [thesoft.vercel.app](https://thesoft.vercel.app)
 
 <div align="center">
