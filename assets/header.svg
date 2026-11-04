@@ -1,4 +1,4 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="micaelsan — desenvolvedor autônomo. na lua, a foto de perfil: um gatinho preto de olhos grandes.">
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="micaelsan — desenvolvedor autônomo">
   <defs>
     <radialGradient id="brilhoLua" cx="77%" cy="52%" r="38%">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
@@ -49,7 +49,7 @@
   <rect x="74" y="196" width="320" height="3" rx="1.5" fill="url(#linhaBranca)"/>
   <text x="72" y="242" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="600" fill="#d9d9d9">desenvolvedor aut&#244;nomo &#8212; PC operado pelo chat, de qualquer lugar</text>
   <text x="72" y="272" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8f8f8f">Tauri &#183; Next.js &#183; Node.js &#183; Python &#183; SQLite</text>
-  <text x="72" y="386" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#6a6a6a">commits de madrugada &#183; feito &#224; m&#227;o, pixel por pixel</text>
+  <text x="72" y="386" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#6a6a6a">automação &#183; ferramentas locais &#183; sistemas</text>
 
   <!-- lua -->
   <circle cx="918" cy="225" r="150" fill="#ffffff" opacity="0.04"/>
