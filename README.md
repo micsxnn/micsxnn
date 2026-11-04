@@ -6,18 +6,19 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1100&color=FFFFFF&center=true&vCenter=true&width=620&height=56&lines=fa%C3%A7o+a+IA+operar+o+meu+PC+pelo+chat;Tauri+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;zero+depend%C3%AAncias+%C2%B7+zero+portas+abertas" alt="digitando..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1100&color=FFFFFF&center=true&vCenter=true&width=680&height=56&lines=opero+o+meu+PC+pelo+chat%2C+de+qualquer+lugar;Tauri+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;zero+depend%C3%AAncias+%C2%B7+zero+portas+abertas" alt="digitando..."/>
 
 </div>
 
 ## sobre
 
 desenvolvedor autônomo. construo ferramenta que resolve de verdade — de um baixador
-de música a uma ponte que deixa a IA (Claude, ChatGPT, Gemini) operar o PC pelo chat:
-um agente de um arquivo só, zero dependências, com lixeira com desfazer e trava
-anticatástrofe rodando na sua máquina. de dia eu escrevo código; de madrugada, saem os melhores.
+de música a uma ponte que opera o PC pelo chat, de qualquer lugar: comandos no
+terminal, arquivos e automação com um agente de um arquivo só, zero dependências,
+fila offline, lixeira com desfazer e trava anticatástrofe rodando na sua máquina.
+de dia eu escrevo código; de madrugada, saem os melhores.
 
-- **no forno**: [`ponte-local`](https://github.com/micsxnn/ponte-local) — sua IA opera seu PC, sem porta aberta, sem VPN
+- **no forno**: [`ponte-local`](https://github.com/micsxnn/ponte-local) — seu PC operado pelo chat, de qualquer lugar, sem porta aberta, sem VPN
 - **escrevo em**: [thesoft.vercel.app](https://thesoft.vercel.app)
 - **fato**: o banner deste perfil foi desenhado à mão em SVG animado — pixel por pixel, sem editor
 

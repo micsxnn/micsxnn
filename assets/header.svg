@@ -47,7 +47,7 @@
   <!-- texto -->
   <text x="70" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="1" fill="#ffffff" filter="url(#sombraTitulo)">micaelsan</text>
   <rect x="74" y="196" width="320" height="3" rx="1.5" fill="url(#linhaBranca)"/>
-  <text x="72" y="242" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="600" fill="#d9d9d9">desenvolvedor aut&#244;nomo &#8212; a IA opera o meu PC pelo chat</text>
+  <text x="72" y="242" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="600" fill="#d9d9d9">desenvolvedor aut&#244;nomo &#8212; PC operado pelo chat, de qualquer lugar</text>
   <text x="72" y="272" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8f8f8f">Tauri &#183; Next.js &#183; Node.js &#183; Python &#183; SQLite</text>
   <text x="72" y="386" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#6a6a6a">commits de madrugada &#183; feito &#224; m&#227;o, pixel por pixel</text>
 
